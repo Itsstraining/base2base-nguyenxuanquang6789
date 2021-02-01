@@ -37,3 +37,4 @@ function decToBin(num) {
 decToBin(10);
 
 module.exports = main;
+module.exports = decToBin;
